@@ -1,4 +1,4 @@
-[![예제](http://img.youtube.com/vi/UxPfpQSl7e0.jpg)](https://youtu.be/UxPfpQSl7e0) 
+[![](http://img.youtube.com/vi/UxPfpQSl7e0/0.jpg)](https://youtu.be/UxPfpQSl7e0) 
 
 # Summary
 It is an interactive audio visualization project of the Ainu language for the Generative Audio Visualization course in 2024.
