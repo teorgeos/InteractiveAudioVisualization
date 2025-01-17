@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9EDA0ACB-BC55-486C-2104-A82D0E00E2D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ParticleOnVertices.cs">
+    <Files>
+      <File FileName="Assets/ParticleOnVertices.cs" Line="7" Column="42" />
+      <File FileName="Assets/ObjectAudioController.cs" Line="90" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InteractiveAudioVisualization" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ParticleOnVertices.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ee27d387-b06e-43b1-9574-018fe0d33210" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
