@@ -1,3 +1,5 @@
+https://youtu.be/UxPfpQSl7e0
+
 # Summary
 It is an interactive audio visualization project of the Ainu language for the Generative Audio Visualization course in 2024.
 The project aims to visualize the forgotten audio of Ainu culture through simple interactions with symbolic objects of Ainu culture.
