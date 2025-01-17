@@ -1,11 +1,18 @@
 [![](http://img.youtube.com/vi/UxPfpQSl7e0/0.jpg)](https://youtu.be/UxPfpQSl7e0) 
 
+To watch the video, click the image above!
+
 # Summary
 It is an interactive audio visualization project of the Ainu language for the Generative Audio Visualization course in 2024.
 The project aims to visualize the forgotten audio of Ainu culture through simple interactions with symbolic objects of Ainu culture.
 
 # Tools
 Unity, C#
+
+# Background
+The Ainu are an indigenous people from northern Japan.
+I wanted to visualize forgotten audio and came up with the idea to visualize the Ainu language.
+I visited Hokkaido, the northern island of Japan, and realized that their culture is still alive even if we cannot see or meet them in person.
 
 # Interaction & System Design
 According to the weather API, the project automatically checks the snowfall depth and controls the particle systems.
@@ -16,7 +23,7 @@ The objects are adapted with physics, so they will move back and forth whenever 
 They will also get bigger and smaller according to the volume.
 Additionally, the 3D objects bounce while the instrument audio is playing.
 
-# Background
-The Ainu are an indigenous people from northern Japan.
-I wanted to visualize forgotten audio and came up with the idea to visualize the Ainu language.
-I visited Hokkaido, the northern island of Japan, and realized that their culture is still alive even if we cannot see or meet them in person.
+# Takeaways
+You can see particles far from the current camera position. They were made using 3D object meshes of a bear.
+Since the bear is a sacred animal in Ainu culture, I wanted to add responsive effects to it.
+I should refine it further in the future.
